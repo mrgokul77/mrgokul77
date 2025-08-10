@@ -4,7 +4,7 @@ linear-gradient(135deg, #000000 0%, #0f0f0f 45%, #1a1a1a 100%);
 box-shadow: 0 10px 30px rgba(255,215,0,.25);">
 
   <!-- Batman coding banner -->
-  <img src="https://raw.githubusercontent.com/mrgokul77/mrgokul77/main/batman-banner.png" alt="Batman Coding Banner" width="100%" style="border-radius: 12px; max-width: 800px;" />
+  <img src="https://raw.githubusercontent.com/mrgokul77/mrgokul77/main/batman.png" alt="Batman Coding Banner" width="100%" style="border-radius: 12px; max-width: 800px;" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=900&color=FFD700&center=true&vCenter=true&width=700&lines=I'm+Gokul+Poudel;Django+Developer;Backend+%26+API+Builder;Learning+React+for+Full-Stack"
        alt="Typing SVG" />
