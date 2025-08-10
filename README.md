@@ -8,7 +8,7 @@ box-shadow: 0 10px 30px rgba(255,215,0,.25);">
 
   <div align="center">
   <img src="https://raw.githubusercontent.com/mrgokul77/mrgokul77/main/batman.png" 
-       alt="Batman Coding" width="100%" style="border-radius: 12px; max-width: 800px;" />
+       alt="Batman Coding" width="100%" style="border-radius: 12px; max-width: 600px;" />
   </div>
 
 
