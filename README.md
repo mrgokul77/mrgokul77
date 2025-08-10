@@ -6,10 +6,11 @@ box-shadow: 0 10px 30px rgba(255,215,0,.25);">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=900&color=FFD700&center=true&vCenter=true&width=700&lines=I'm+Gokul+Poudel;Django+Developer;Backend+%26+API+Builder;Learning+React+for+Full-Stack"
        alt="Typing SVG" />
 
-  <div align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/mrgokul77/mrgokul77/main/batman.png" 
-       alt="Batman Coding" width="100%" style="border-radius: 12px; max-width: 600px;" />
-  </div>
+       alt="Batman Coding" width="450px" style="border-radius: 12px;" />
+</div>
+
 
 
   <p style="max-width:760px;color:#f5f5f5;line-height:1.7;margin:14px auto 0;font-size:15.5px;">
