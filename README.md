@@ -1,37 +1,47 @@
-<!-- ===== HERO / BANNER ===== -->
-<div align="center" style="padding: 28px 18px; border-radius: 18px; background:
-linear-gradient(135deg, #000000 0%, #0f0f0f 45%, #1a1a1a 100%);
-box-shadow: 0 10px 30px rgba(255,215,0,.25);">
+<!-- ===== HERO: Left title / Right image ===== -->
+<div style="
+  display:flex; flex-wrap:wrap; align-items:center; gap:24px;
+  padding:24px; border-radius:16px;
+  background: linear-gradient(135deg,#000000 0%,#0f0f0f 45%,#1a1a1a 100%);
+  box-shadow:0 10px 30px rgba(255,215,0,.25);
+">
 
-<h1 align="center" style="color:#FFD700;">
-  I am Gokul Poudel (Django Developer)
-</h1>
-<h3 align="center" style="color:#FFD700;">
-  Backend & API Builder | Learning React for Full-Stack
-</h3>
-
-
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/mrgokul77/mrgokul77/main/batman.png" 
-         alt="Batman Coding" width="500px" style="border-radius: 12px;" />
+  <!-- LEFT: Title -->
+  <div style="flex:1 1 320px; min-width:280px;">
+    <h1 style="margin:0 0 6px 0; color:#FFD700;">
+      I am Gokul Poudel (Django Developer)
+    </h1>
+    <h3 style="margin:0; color:#FFD700; font-weight:500;">
+      Backend & API Builder | Learning React for Full-Stack
+    </h3>
   </div>
+
+  <!-- RIGHT: Image -->
+  <div style="flex:0 1 380px; min-width:260px; text-align:center;">
+    <img src="https://raw.githubusercontent.com/mrgokul77/mrgokul77/main/batman.png"
+         alt="Batman coding"
+         style="width:100%; max-width:380px; border-radius:12px; border:1px solid #FFD700;" />
+  </div>
+
+
 
   <p style="max-width:760px;color:#f5f5f5;line-height:1.7;margin:14px auto 0;font-size:15.5px;">
     I build secure, scalable apps with <b>Django</b>, <b>DRF</b>, and SQL databases — clean APIs, robust authentication, and
     tidy architecture. Exploring <b>React</b> to ship full-stack features end-to-end.
   </p>
 
-  <div style="margin-top:18px;">
-    <a href="mailto:gokulpoudel558@example.com">
-      <img src="https://img.shields.io/badge/Email-gokulpoudel558%40example.com-FFD700?style=for-the-badge&logo=gmail&logoColor=black" />
-    </a>
-    <a href="https://github.com/mrgokul77">
-      <img src="https://img.shields.io/badge/GitHub-mrgokul77-000000?style=for-the-badge&logo=github&logoColor=FFD700" />
-    </a>
-    <a href="https://linkedin.com/in/gokulpoudel">
-      <img src="https://img.shields.io/badge/LinkedIn-Gokul%20Poudel-FFD700?style=for-the-badge&logo=linkedin&logoColor=black" />
-    </a>
-  </div>
+  ## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/mrgokul77" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/gokulpoudel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+</p>
+
 </div>
 
 ---
@@ -55,10 +65,10 @@ box-shadow: 0 10px 30px rgba(255,215,0,.25);">
 ---
 
 ### 🚀 What I’m Focused On
-- 🦇 JWT & session auth, RBAC, CSRF protection  
-- 🦇 RESTful APIs with Django REST Framework  
-- 🦇 Database design, migrations, and query optimization  
-- 🦇 CI/CD, containerization basics, and clean architecture
+ 🦇 JWT & session auth, RBAC, CSRF protection  
+ 🦇 RESTful APIs with Django REST Framework  
+ 🦇 Database design, migrations, and query optimization  
+ 🦇 CI/CD, containerization basics, and clean architecture
 
 ---
 
@@ -72,6 +82,18 @@ box-shadow: 0 10px 30px rgba(255,215,0,.25);">
 
 ---
 
-<div align="center" style="font-style:italic;color:#FFD700">
-  "Why do we fall? So we can learn to pick ourselves up."
+<div align="center" style="
+  background: linear-gradient(135deg, #000000 0%, #0f0f0f 45%, #1a1a1a 100%);
+  padding: 20px;
+  border-radius: 12px;
+  border: 1px solid #FFD700;
+  color: #FFD700;
+  font-style: italic;
+  font-size: 18px;
+  max-width: 600px;
+  margin: auto;
+  box-shadow: 0 0 15px rgba(255, 215, 0, 0.3);
+">
+  🦇 "Why do we fall? So we can learn to pick ourselves up." 🦇
 </div>
+
