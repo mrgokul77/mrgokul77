@@ -18,9 +18,11 @@
 
   <!-- RIGHT: Image -->
   <div style="flex:0 1 380px; min-width:260px; text-align:center;">
-    <img src="https://raw.githubusercontent.com/mrgokul77/mrgokul77/main/batman.png"
-         alt="Batman coding"
-         style="width:100%; max-width:380px; border-radius:12px; border:1px solid #FFD700;" />
+    <img src="https://raw.githubusercontent.com/mrgokul77/mrgokul77/main/batman.png" 
+       alt="Batman Coding" 
+       width="500px" 
+       height="300px" 
+       style="border-radius: 12px; object-fit: cover;" />
   </div>
 </div>
 
