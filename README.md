@@ -20,8 +20,8 @@
   <div style="flex:0 1 380px; min-width:260px; text-align:center;">
     <img src="https://raw.githubusercontent.com/mrgokul77/mrgokul77/main/batman.png" 
        alt="Batman Coding" 
-       width="500px" 
-       height="300px" 
+       width="600px" 
+       height="400px" 
        style="border-radius: 12px; object-fit: cover;" />
   </div>
 </div>
