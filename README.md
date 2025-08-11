@@ -1,30 +1,35 @@
-<!-- ===== HERO: Left title / Right image ===== -->
+<!-- ===== HERO: Left text / Right image ===== -->
 <div style="
-  display:flex; flex-wrap:wrap; align-items:center; gap:24px;
-  padding:24px; border-radius:16px;
+  display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between;
+  gap:24px; padding:24px; border-radius:16px;
   background: linear-gradient(135deg,#000000 0%,#0f0f0f 45%,#1a1a1a 100%);
   box-shadow:0 10px 30px rgba(255,215,0,.25);
 ">
 
-  <!-- LEFT: Title -->
+  <!-- LEFT: Info -->
   <div style="flex:1 1 320px; min-width:280px;">
-    <h1 style="margin:0 0 6px 0; color:#FFD700;">
-      I am Gokul Poudel (Django Developer)
+    <h1 style="margin:0 0 10px 0; color:#FFD700; font-size:28px;">
+      🦇 I am Gokul Poudel <span style="font-weight:400;">(Django Developer)</span>
     </h1>
-    <h3 style="margin:0; color:#FFD700; font-weight:500;">
+    <h3 style="margin:0 0 16px 0; color:#FFD700; font-weight:500;">
       Backend & API Builder | Learning React for Full-Stack
     </h3>
+    <p style="line-height:1.7; color:#e5e7eb; font-size:15.5px;">
+      I craft secure, scalable applications using <b>Django</b>, <b>DRF</b>, and SQL databases — delivering clean APIs, robust authentication, and structured architecture.  
+      Currently exploring <b>React</b> to build complete full-stack solutions end-to-end.
+    </p>
   </div>
 
   <!-- RIGHT: Image -->
   <div style="flex:0 1 380px; min-width:260px; text-align:center;">
     <img src="https://raw.githubusercontent.com/mrgokul77/mrgokul77/main/batman.png" 
-       alt="Batman Coding" 
-       width="600px" 
-       height="400px" 
-       style="border-radius: 12px; object-fit: cover;" />
+         alt="Batman Coding" 
+         width="500px" 
+         height="320px" 
+         style="border-radius: 12px; object-fit: cover; border:1px solid #FFD700;" />
   </div>
 </div>
+
 
 <!-- Description -->
 <p align="center" style="max-width:760px;color:#f5f5f5;line-height:1.7;margin:14px auto 0;font-size:15.5px;">
