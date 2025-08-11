@@ -3,18 +3,21 @@
 linear-gradient(135deg, #000000 0%, #0f0f0f 45%, #1a1a1a 100%);
 box-shadow: 0 10px 30px rgba(255,215,0,.25);">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=900&color=FFD700&center=true&vCenter=true&width=700&lines=I'm+Gokul+Poudel;Django+Developer;Backend+%26+API+Builder;Learning+React+for+Full-Stack"
-       alt="Typing SVG" />
+<h1 align="center" style="color:#FFD700;">
+  I am Gokul Poudel (Django Developer)
+</h1>
+<h3 align="center" style="color:#FFD700;">
+  Backend & API Builder | Learning React for Full-Stack
+</h3>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mrgokul77/mrgokul77/main/batman.png" 
-       alt="Batman Coding" width="650px" style="border-radius: 12px;" />
-</div>
 
-
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/mrgokul77/mrgokul77/main/batman.png" 
+         alt="Batman Coding" width="500px" style="border-radius: 12px;" />
+  </div>
 
   <p style="max-width:760px;color:#f5f5f5;line-height:1.7;margin:14px auto 0;font-size:15.5px;">
-    I build secure, scalable apps with <b>Django</b>, <b>DRF</b>, and SQL databases — clean APIs, robust auth, and
+    I build secure, scalable apps with <b>Django</b>, <b>DRF</b>, and SQL databases — clean APIs, robust authentication, and
     tidy architecture. Exploring <b>React</b> to ship full-stack features end-to-end.
   </p>
 
@@ -70,5 +73,5 @@ box-shadow: 0 10px 30px rgba(255,215,0,.25);">
 ---
 
 <div align="center" style="font-style:italic;color:#FFD700">
-  “It's not who I am underneath, but what I do that defines me.” – Batman 🦇
+  "Why do we fall? So we can learn to pick ourselves up."
 </div>
