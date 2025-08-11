@@ -34,7 +34,7 @@
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/mrgokul77" target="_blank" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github" width="48" height="48" style="margin-right:8px;" />
   </a>
