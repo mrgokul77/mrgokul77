@@ -22,27 +22,27 @@
          alt="Batman coding"
          style="width:100%; max-width:380px; border-radius:12px; border:1px solid #FFD700;" />
   </div>
+</div>
 
-
-
-  <p style="max-width:760px;color:#f5f5f5;line-height:1.7;margin:14px auto 0;font-size:15.5px;">
-    I build secure, scalable apps with <b>Django</b>, <b>DRF</b>, and SQL databases — clean APIs, robust authentication, and
-    tidy architecture. Exploring <b>React</b> to ship full-stack features end-to-end.
-  </p>
-
-  ## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/mrgokul77" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/gokulpoudel" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  
+<!-- Description -->
+<p align="center" style="max-width:760px;color:#f5f5f5;line-height:1.7;margin:14px auto 0;font-size:15.5px;">
+  I build secure, scalable apps with <b>Django</b>, <b>DRF</b>, and SQL databases — clean APIs, robust authentication, and
+  tidy architecture. Exploring <b>React</b> to ship full-stack features end-to-end.
 </p>
 
-</div>
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/mrgokul77" target="_blank" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" style="margin-right:8px;" />
+  </a>
+  <a href="https://linkedin.com/in/gokulpoudel" target="_blank" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" />
+  </a>
+</p>
+
 
 ---
 
@@ -65,10 +65,10 @@
 ---
 
 ### 🚀 What I’m Focused On
- 🦇 JWT & session auth, RBAC, CSRF protection  
- 🦇 RESTful APIs with Django REST Framework  
- 🦇 Database design, migrations, and query optimization  
- 🦇 CI/CD, containerization basics, and clean architecture
+🦇 JWT & session auth, RBAC, CSRF protection  
+🦇 RESTful APIs with Django REST Framework  
+🦇 Database design, migrations, and query optimization  
+🦇 CI/CD, containerization basics, and clean architecture
 
 ---
 
@@ -96,4 +96,3 @@
 ">
   🦇 "Why do we fall? So we can learn to pick ourselves up." 🦇
 </div>
-
